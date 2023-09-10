@@ -1,0 +1,22 @@
+# Kompilerade filer
+target/
+*.class
+
+# Maven-specifika filer och kataloger
+.mvn/
+mvnw
+mvnw.cmd
+
+# IntelliJ IDEA-specifika filer och kataloger
+.idea/
+*.iml
+
+# Kompilator- och IDE-specifika filer
+.settings/
+*.log
+*.log.*
+*.swp
+
+# Diverse filer och kataloger som är specifika för vissa operativsystem
+.DS_Store
+Thumbs.db
